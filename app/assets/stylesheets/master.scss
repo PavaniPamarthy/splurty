@@ -36,10 +36,11 @@
 
 .links a {
   color: black;
-  font-size: 25px;
+  font-size: 20px;
   border-bottom: 1px solid #0F1E2B;
   font-family: 'kaushan_scriptregular', serif;
   font-weight: bold;
+  margin-left: 40px;
 }
 
 header {
@@ -53,9 +54,22 @@ hr {
 h1 {
   font-family: 'kaushan_scriptregular', serif;
   font-weight: bold;
-  font-size: 48px;
+  font-size: 42px;
 }
 
 h2 {
   font-family: 'kaushan_scriptregular', serif;
+}
+
+.next-quote {
+  color:#f84342;
+  font-family: 'kaushan_scriptregular', serif;
+  font-size: 20px;
+}
+
+.footer-blurb {
+  font-family: "Palatino Linotype", Palatino, Palladio, "URW Palladio L", "Book Antiqua", Baskerville, "Bookman Old Style", "Bitstream Charter", "Nimbus Roman No9 L", Garamond, "Apple Garamond", "ITC Garamond Narrow", "New Century Schoolbook", "Century Schoolbook", "Century Schoolbook L", Georgia, serif;
+  font-style: italic;
+  text-align: right;
+  font-size: 10px;
 }
